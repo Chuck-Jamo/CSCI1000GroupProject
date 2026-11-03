@@ -1,5 +1,4 @@
-# CSCI1000GroupProject   
-#### *Sailor Abraham,*
-#### *Nicholas Varela,*
-#### *Tom Bloomfield,*
+# CSCI1000 Group Project   
 #### *Charlie Jamieson*    
+
+
