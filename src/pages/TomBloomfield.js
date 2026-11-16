@@ -65,8 +65,9 @@ export default function TomBloomfield() {
           }
 
           .pic {
-            height: 450px;
-            width: 450px;
+              height: 450px;
+              width: 450px;
+              object-fit: cover;
           }
 
           .button {
