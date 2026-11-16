@@ -10,7 +10,7 @@ export default function TomBloomfield() {
                 </div>
                 <img
                     className='pic'
-                    src='/tom.jpg'
+                    src='https://raw.githubusercontent.com/Chuck-Jamo/CSCI1000GroupProject/main/src/public/tom.JPG'
                     alt='Tom Bloomfield'
                 />
 
