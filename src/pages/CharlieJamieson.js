@@ -1,4 +1,4 @@
-export default function examplePage() {
+export default function CharlieJamieson() {
     return (
       <div className='container'>
         <title>Website</title>
