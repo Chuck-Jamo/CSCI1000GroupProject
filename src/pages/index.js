@@ -22,15 +22,22 @@ export default function Home() {
         <code>src/page/teamMemberName.js</code>
 
         <div className='grid'>
-          <a href='/TomHolland ' className='card'>
-            <h3>Example About Me Page &rarr;</h3>
-            <p>Click here to navigate to an example page</p>
+          <a href='/nicholasvarela ' className='card'>
+            <h3>Nicholas's Page &rarr;</h3>
+            <p>Click here to navigate to an Nicholas's page</p>
           </a>
           <a href='/charliejamieson ' className='card'>
             <h3>Charlie Jamieson's page &rarr;</h3>
             <p>Click here to navigate to Charlie's page</p>
           </a>
-
+          <a href='/tombloomfield ' className='card'>
+            <h3>Tom Bloomfields's page &rarr;</h3>
+            <p>Click here to navigate to Tom Bloomfields's page</p>
+          </a>
+          <a href='/sailorabraham ' className='card'>
+            <h3>Sailor Abraham's page &rarr;</h3>
+            <p>Click here to navigate to Sailors's page</p>
+          </a>
           <a
             href='https://github.com/vedant29/Project-CSCI-1000'
             className='card'>

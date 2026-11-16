@@ -1,4 +1,4 @@
-export default function examplePage() {
+export default function TomBloomfield() {
     return (
         <div className='container'>
             <title>Tom Bloomfield</title>
@@ -10,7 +10,7 @@ export default function examplePage() {
                 </div>
                 <img
                     className='pic'
-                    src='https://raw.githubusercontent.com/Chuck-Jamo/CSCI1000GroupProject/main/src/public/tom.JPG'
+                    src='/tom.jpg'
                     alt='Tom Bloomfield'
                 />
 
